@@ -1,4 +1,4 @@
-# lamnn1910
+# lam1910
 My personal repository
 # 👋 Hello there, I'm Ngoc Lam Nguyen!
 
