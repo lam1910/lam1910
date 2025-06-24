@@ -34,7 +34,7 @@ Here are a few repositories I’m proud of:
 
 Feel free to reach out for collaborations, internship opportunities, or just to chat about tech!
 
-- 💼 [LinkedIn]([https://www.linkedin.com/in/ngoclamnguyen/](https://www.linkedin.com/in/ngoc-lam-nguyen-15bb73187/))
+- 💼 [LinkedIn](https://www.linkedin.com/in/ngoc-lam-nguyen-15bb73187/)
 - ✉️ lamnn1910@outlook.com
 
 Thanks for stopping by! 🚀
