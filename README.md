@@ -23,7 +23,7 @@ I'm a curious and driven software engineering student who loves crafting efficie
 Here are a few repositories I’m proud of:
 
 - [**Recommendation System**](https://github.com/lam1910/RecommendationSystem) – A Recommendation System prototype built from past data.  
-- [**Data Science Project at EPITA**](https://github.com/lam1910/students-performance) – Learn how to serve model to customer  
+- [**Data Science Project at EPITA**](https://github.com/lam1910/social-media-preferences) – Learn how to serve model to customer  
 - [**Robot Control Center**](https://github.com/lam1910/improved-control-center-robot) – A remote server to control a robot for robotic class at Uni
 
 > More exciting stuff coming soon. Stay tuned!
